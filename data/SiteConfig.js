@@ -20,7 +20,7 @@ const config = {
   userLocation: "North Pole, Earth", // User location to display in the author segment.
   userAvatar: "https://avatars1.githubusercontent.com/u/24612010?s=460&v=4", // User avatar to display in the author segment.
   userDescription:
-    "I am what you allow me to be, and so are you to me.", // User description to display in the author segment.
+    "I am what you allow me to be, and so are you to me. example", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
